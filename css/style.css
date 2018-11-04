@@ -1,0 +1,47 @@
+header > h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tablica_wynikow {
+    text-align: center;
+    margin: 40px auto;
+    padding: 20px 20px;;
+    width: 100px;
+    height: 40px;
+    position: relative;
+    border: 2px solid black;
+    font-size: 25px;
+}
+
+.uzytkownik {
+    position: absolute;
+    top: 0;
+    left: -140px;;
+}
+
+.komputer {
+    position: absolute;
+    top: 0;
+    right: -120px;;
+}
+
+.output > p {
+    text-align: center;
+    font-size: 20px;
+}
+.wybory {
+    margin-top: 40px;
+    text-align: center;
+}
+.wybor {
+    display: inline-block;
+}
+
+.wybor img {
+    width: 70%;
+}
+
+#output {
+    text-align: center;
+}
